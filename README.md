@@ -1,0 +1,2 @@
+# gptbing
+some generating code
